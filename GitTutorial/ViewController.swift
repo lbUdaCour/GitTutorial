@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         print("now now")
         print("This is not going GOOD")
         print("dog")
+        print("cat")
         super.viewDidLoad()
     }
 
