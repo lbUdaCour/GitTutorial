@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
+        print("now now")
         print("This is not going GOOD")
         super.viewDidLoad()
     }
